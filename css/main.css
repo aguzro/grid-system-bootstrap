@@ -1,4 +1,29 @@
-/* Inserta tu código aqui */
+/* General */
+
+/*Color*/
+.bg-gray { 
+	background-color: #efeae6; 
+}
+.bg-black {
+	background-color: ;
+}
+.bg-white {
+	background-color: #fff;
+}
+.bg-red {
+
+}
+.bg-blue {
+	
+}
+
+/* Medidas */
 .w-80 {
 	width: 80%;
+}
+.pd-tb {
+	padding: 1% 0;
+} 
+pd-t {
+	padding-top: 1%;
 }
